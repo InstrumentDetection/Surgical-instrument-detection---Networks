@@ -41,10 +41,10 @@
 ## Requirements
 Following software has been used throughout our master thesis. Other versions can be used, if following the guides provided below.
 
-* `Cmake` : Version 3.20.0
-* Right click on the globe
-* Move the cursor to "Branch actions"
-* In the sub-menu, click on "Import from .t3d"
+*  `Cmake` : Version 3.20.0
+*  `CUDA` : Version 11.3
+*  `OpenCV` : Version 4.2.0
+*  `cudNN` : Version 8.2.0
 ## YOLOv4
 ### YOLOv4-Installation
 
