@@ -2,10 +2,15 @@
 # Surgical instrument detection
 
 ## Table of content
+- [Requirements](#Requirements)
+
+
 - [YOLOv4](#yolov4)
     - [Installation](#yolov4-installation)
     - [Training](##yolov4-training)
     - [Testing](##yolov4-testing)
+    - [Versions-Used](##yolov4-testing)
+
 
 - [Scaled-YOLOv4](#installation)
     - [Installation](#installation)
@@ -33,9 +38,18 @@
     - [Testing](#installation)
 
 
+## Requirements
+Following software has been used throughout our master thesis. Other versions can be used, if following the guides provided below.
 
+* `Cmake` : Version 3.20.0
+* Right click on the globe
+* Move the cursor to "Branch actions"
+* In the sub-menu, click on "Import from .t3d"
 ## YOLOv4
 ### YOLOv4-Installation
+
+#### Versions-Used
+
 ### YOLOv4-Training
 ### YOLOv4-Testing
 
