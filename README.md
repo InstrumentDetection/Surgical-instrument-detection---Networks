@@ -2,32 +2,39 @@
 # Surgical instrument detection
 
 ## Table of content
-- [YOLOv4](#installation)
+- [YOLOv4](#yolov4 installation)
     - [Installation](#installation)
     - [Training](#installation)
+    - [Testing](#installation)
 
 - [Scaled-YOLOv4](#installation)
+    - [Installation](#installation)
+    - [Training](#installation)
+    - [Testing](#installation)
 - [YOLOv5](#installation)
+    - [Installation](#installation)
+    - [Training](#installation)
+    - [Testing](#installation)
 - [EfficientDet](#installation)
+    - [Installation](#installation)
+    - [Training](#installation)
+    - [Testing](#installation)
 - [Faster-RCNN](#installation)
+    - [Installation](#installation)
+    - [Training](#installation)
+    - [Testing](#installation)
 - [SSD-pytorch](#installation)
+    - [Installation](#installation)
+    - [Training](#installation)
+    - [Testing](#installation)
 - [Retinanet](#installation)
+    - [Installation](#installation)
+    - [Training](#installation)
+    - [Testing](#installation)
 
-- [Installation](#installation)
-    - [TER](#typo3-extension-repository)
-    - [Composer](#composer)
-- [TYPO3 setup](#typo3-setup)
-    - [Extension](#extension)
-    - [Database](#database)
-- [Page setup](#page-setup)
-    - [Upload the page tree file](#upload-the-page-tree-file)
-    - [Go to the import view](#go-to-the-import-view)
-    - [Import the page tree](#import-the-page-tree)
-    - [SEO-friendly URLs](#seo-friendly-urls)
-- [License](#license)
-- [Links](#links)
 
-## Installation
+
+## yolov4 Installation
 
 This document is for the latest Aimeos TYPO3 **21.10 release and later**.
 
