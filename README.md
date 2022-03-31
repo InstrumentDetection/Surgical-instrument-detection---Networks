@@ -2,7 +2,7 @@
 # Surgical instrument detection
 
 ## Table of content
-- [YOLOv4](#yolov4 installation)
+- [YOLOv4](#yolov4-installation)
     - [Installation](#installation)
     - [Training](#installation)
     - [Testing](#installation)
@@ -34,7 +34,7 @@
 
 
 
-## yolov4 Installation
+## Yolov4-Installation
 
 This document is for the latest Aimeos TYPO3 **21.10 release and later**.
 
