@@ -1,5 +1,6 @@
 
-# Surgical instrument detection
+# Surgical instrument detection -Networks
+There are additional scripts that can help you process data in various ways, for example, convert from xml files that you get from labelImg to yolov4 .txt format, retrieve images from video and alot more. These scripts are places under the Data_handling folder and an additional readme file is placed in there.
 
 ## Table of content
 - [Requirements](#Requirements)
