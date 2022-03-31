@@ -41,10 +41,10 @@
 ## Requirements
 Following software has been used throughout our master thesis. Other versions can be used, if following the guides provided below.
 
-*  `Cmake` : Version 3.20.0
-*  `CUDA` : Version 11.3
-*  `OpenCV` : Version 4.2.0
-*  `cudNN` : Version 8.2.0
+*  `Cmake` : Version 3.20.0 -- https://cmake.org/download/
+*  `CUDA` : Version 11.3 --  https://developer.nvidia.com/cuda-toolkit-archive
+*  `OpenCV` : Version 4.2.0 -- https://opencv.org/releases/
+*  `cudNN` : Version 8.2.0 -- https://developer.nvidia.com/rdp/cudnn-archive
 ## YOLOv4
 ### YOLOv4-Installation
 
