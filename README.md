@@ -47,7 +47,9 @@ Following software has been used throughout our master thesis. Other versions ca
 *  `cudNN` : Version 8.2.0 -- https://developer.nvidia.com/rdp/cudnn-archive
 ## YOLOv4
 ### YOLOv4-Installation
+Follow the installation instuctions on the link provided below.
 
+https://github.com/AlexeyAB/darknet/blob/master/README.md#requirements-for-windows-linux-and-macos
 #### Versions-Used
 
 ### YOLOv4-Training
