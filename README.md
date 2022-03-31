@@ -53,6 +53,11 @@ https://github.com/AlexeyAB/darknet/blob/master/README.md#requirements-for-windo
 #### Versions-Used
 
 ### YOLOv4-Training
+
+
+If you wish to train on new classes and data, follow the instructions privided on the link below.
+https://github.com/AlexeyAB/darknet/blob/master/README.md#requirements-for-windows-linux-and-macos
+
 ### YOLOv4-Testing
 
 This document is for the latest Aimeos TYPO3 **21.10 release and later**.
