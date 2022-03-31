@@ -6,10 +6,7 @@
 
 
 - [YOLOv4](#yolov4)
-    - [Installation](#yolov4-installation)
-    - [Training](##yolov4-training)
-    - [Testing](##yolov4-testing)
-    - [Versions-Used](##yolov4-testing)
+
 
 
 - [Scaled-YOLOv4](#installation)
@@ -46,23 +43,15 @@ Following software has been used throughout our master thesis. Other versions ca
 *  `OpenCV` : Version 4.2.0 -- https://opencv.org/releases/
 *  `cudNN` : Version 8.2.0 -- https://developer.nvidia.com/rdp/cudnn-archive
 ## YOLOv4
-### YOLOv4-Installation
+
 Follow the installation instuctions on the link provided below.
 
-https://github.com/AlexeyAB/darknet/blob/master/README.md#requirements-for-windows-linux-and-macos
-#### Versions-Used
+https://github.com/AlexeyAB/darknet
 
-### YOLOv4-Training
+Weights and configuration files for yolov4 can be downloaded from the following link below.
 
+https://drive.google.com/drive/folders/161ad_YGMSuQC5VQzII3AKu5pZOmttmd-
 
-If you wish to train on new classes and data, follow the instructions privided on the link below.
-https://github.com/AlexeyAB/darknet/blob/master/README.md#requirements-for-windows-linux-and-macos
-
-### YOLOv4-Testing
-
-This document is for the latest Aimeos TYPO3 **21.10 release and later**.
-
-- LTS release: 21.10 (TYPO3 10/11 LTS)
 
 ### Composer
 
