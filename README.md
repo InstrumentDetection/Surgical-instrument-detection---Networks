@@ -39,7 +39,8 @@ https://github.com/AlexeyAB/darknet
 
 Weights and configuration files, retrieved from training on the surgical dataset, for yolov4 can be downloaded from the following link below.
 
-https://drive.google.com/drive/folders/161ad_YGMSuQC5VQzII3AKu5pZOmttmd-
+
+https://drive.google.com/drive/folders/1qxLkO0EF5ijZeEAr7WfqiCwVRw2lVhk8?usp=sharing
 
 ## Scaled-YOLOv4
 Follow the installation instuctions on the link provided below.
@@ -48,7 +49,7 @@ https://github.com/WongKinYiu/ScaledYOLOv4/tree/yolov4-csp
 
 Weights and configuration files, retrieved from training on the surgical dataset, for scaled yolov4 can be downloaded from the following link below.
 
-https://drive.google.com/drive/folders/1yFFTeVp5hmiJcddruZOUwpl5vfTm2uP7
+https://drive.google.com/drive/folders/1P2on6hrT_gSFZcIbeBjltE0kgKUQuM_F?usp=sharing
 
 ## YOLOv5
 Follow the installation instuctions on the link provided below.
@@ -57,29 +58,48 @@ https://github.com/ultralytics/yolov5
 
 Weights and configuration files, retrieved from training on the surgical dataset, for scaled yolov4 can be downloaded from the following link below.
 
-https://drive.google.com/drive/folders/1mUhYnqDzRbMa9C47fqX0LbsWZQBhMxma
+https://drive.google.com/drive/folders/1Ov8eMEjARWo1a_zAw4aeh7fK6E1gakrO?usp=sharing
 
 ## Faster-RCNN
 Follow the installation instuctions provided below
+
 https://detectron2.readthedocs.io/en/latest/tutorials/install.html
 
 Use faster_rcnn.py, provided in this repo to run training and evaluation.
+
+Weights and configuration files, retrieved from training on the surgical dataset, for Retinanet can be downloaded from the following link below.
+
+https://drive.google.com/drive/folders/1SgLDxDyXt4nw44wONcoe3G5Mvap9Gb_Q?usp=sharing
+
 ## Retinanet
 Follow the installation instuctions provided below
 https://detectron2.readthedocs.io/en/latest/tutorials/install.html
 
 Use retina_net.py, provided in this repo to run training and evaluation.
+
+Weights and configuration files, retrieved from training on the surgical dataset, for Retinanet can be downloaded from the following link below.
+
+https://drive.google.com/drive/folders/1bor5J-aEw5eYpI4pR8S99GiFzpkqQMMw?usp=sharing
+
 ## SSD-pytorch
 
 Follow the installation instructions provided below
 
 https://github.com/uvipen/SSD-pytorch
 
+Weights and configuration files, retrieved from training on the surgical dataset, for SSD can be downloaded from the following link below.
+
+https://drive.google.com/drive/folders/1EHD51dGho2Aw_R2clEHra5fBYYNysFxg?usp=sharing
+
 ## EfficientDet
 
 Follow the installation instructions provided below
 
 https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/Detection/Efficientdet
+
+Weights and configuration files, retrieved from training on the surgical dataset, for EfficientDet can be downloaded from the following link below.
+
+https://drive.google.com/drive/folders/1UCE1bMnw6hWZA9lwhcBVdLPpuHz_K5Pf?usp=sharing
 
 
 
